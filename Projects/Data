@@ -1,0 +1,43 @@
+Project: Solving Problems Using Data
+The sheer amount of collected data impacts our lives in ways that require considerable study and reflection for us to fully understand them. In this performance task, you will explore a question that can be answered by analyzing a dataset. You will form a question and use visualization techniques to analyze the data to answer the question. Your close examination of the data will deepen your understanding of computer science principles.
+
+In this project, you will work with a partner to plan, develop, and complete the following:
+
+A Computational Artifact
+A computational artifact is a visualization, a graphic, a video, a program, or an audio recording that you create using a computer.
+Written Responses to Prompts
+More on these prompts later
+Your Task
+Your task in this exercise is to brainstorm and choose a topic that you will be exploring for your project. Allow your own interests to drive your choice.
+
+Choose something that you are interested in and want to learn more about. You should investigate a topic that:
+
+has had or has the potential to have significant beneficial and/or harmful effects on society, the economy, or culture
+consumes, produces, and/or transforms data
+or raises at least one data storage concern, data privacy concern, or data security concern.
+Discuss ideas with your partner to help guide your brainstorming. If you need ideas, start by browsing some available datasets from Google Public Data or through the GapMinder tool and form your question based on something you get curious about when looking through the data. Keep in mind that your question must require analyzing a few visualizations. Finding the maximum and minimum values by reading them off of one graph is not a complex enough question.
+
+Write down your ideas here. Decide on your final topic and discuss it with your teacher before moving on.
+
+Prompts for Later
+For reference, these are the prompts you will be asked to answer in the last exercise of this performance task. YOU DO NOT NEED TO ANSWER THESE QUESTIONS RIGHT NOW! Just keep them in mind as you are brainstorming potential topics for your project:
+
+Written Response Prompts
+Computational Artifact
+Provide information on your dataset and data visualizations.
+
+Identify the question you are trying to answer
+Identify the dataset you are using and why this dataset is useful for answering the question
+Explain what each of your visualizations is showing
+Describe how your visualizations illustrates, represents, or explains your conclusions.
+(Approximately 100 words)
+Describe your development process, explicitly identifying the computing tools and techniques you used to create your artifact. Your description must be detailed enough so that a person unfamiliar with those tools and techniques will understand your process. (Approximately 100 words)
+
+The Dataset
+Explain at least one beneficial effect and at least one harmful effect the collection of this data has had, or has the potential to have, on society, economy, or culture. (Approximately 250 words)
+References
+d. Provide a list of all of the online or print sources used to create your computational artifact and/or support your responses to the prompts provided in this project.
+
+This project prepares you for the reading passage portion of the AP CSP Exam. See more here (page 165):
+
+The College Board. “Course and Exam Description: AP Computer Science Principles.” Collegeboard.org. College Board, 2023. https://apcentral.collegeboard.org/media/pdf/ap-computer-science-principles-course-and-exam-description.pdf.
