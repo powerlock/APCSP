@@ -32,7 +32,7 @@ Preparing AP computer science principle test to cover the following topics
 16. Introduction for python programming	<https://www.udacity.com/enrollment/ud1110>
 17. Practice and guidance	<https://sites.google.com/pgsd.ms/computer-science-hinkel/ap-computer-science-principles/exam-info/robot-problems>
 
-## textbooks
+## Python programming textbooks
 
 1. Python coding	<https://www.halvorsen.blog/documents/programming/python/resources/Python%20Programming.pdf>
 2. Python tutorial	<https://bugs.python.org/file47781/Tutorial_EDIT.pdf>
