@@ -87,6 +87,6 @@ Preparing AP computer science principle test to cover the following topics
 
 ## Game
 
-Play and learn	<https://hourofcode.com/us/learn>
-Logic NAND games	<https://nandgame.com>
-Snake Game	<https://codehs.com/sandbox/id/snake-nsHgCX>
+1. Play and learn	<https://hourofcode.com/us/learn>
+2. Logic NAND games	<https://nandgame.com>
+3. Snake Game	<https://codehs.com/sandbox/id/snake-nsHgCX>
